@@ -8,7 +8,7 @@ Script para enviar todas as falas do filme Shrek, linha por linha, para alguém 
 
 2. Copie todo o script (clique em raw, depois ctrl + a, ctrl + c)
 
-3. Acesse o <a href="https://instagram.com"><Instagram/a> e abra algum bate-papo
+3. Acesse o <a href="https://instagram.com">Instagram</a> e abra algum bate-papo
 
 4. Abra o console do navegador (botão direito -> inspecionar -> console)
 
